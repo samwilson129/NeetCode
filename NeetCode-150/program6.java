@@ -2,7 +2,7 @@ import java.util.List;
 import java.util.ArrayList;
 public class program6 {}
 
-//Q6 encode and decode strings
+//Q6- encode and decode strings
 
 //solution 1
 class Solution1 {
